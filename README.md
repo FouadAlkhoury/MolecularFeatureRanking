@@ -1,16 +1,9 @@
 Code and datasets associated with the manuscript:
-Learning to Rank Features to Enhance Graph Neural Networks for Graph Classification. Authors: Fouad Alkhoury, Tamás Horváth, Christian Bauckhage, and Stefan Wrobel.
+Feature Selection-Guided Graph Neural Networks for Compound Activity Prediction. Authors: Fouad Alkhoury, Tamás Horváth, Tiago Janela, Andrea Mastropietro, and Jürgen Bajorath.
 
 ## Repository Structure
 
 This folder contains the scripts used to run the experiments, we explain in turn each file: 
-
-### generate_synthetic_graphs.py 
-generate synthetic graphs for the six defined learning problems explained in Section 4.1 of the paper.
-Each dataset consists of 600 graphs generated using four graph models:
-Erdos (ER), Barabasi (BA), Watts-Strogatz (WS), Power-Law (PL).
-Each dataset in this script has the name: X_Y where X denotes the base graph model and Y refers to the different learning problems (s1...s6)
-The generated graphs are saved under Synthetic/dataset_name/
 
 ### split_graphs.py
 The script splits the set of training graphs D_train into two subsets:
