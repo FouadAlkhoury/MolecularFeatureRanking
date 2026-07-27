@@ -1,0 +1,85 @@
+depth = 15 , trees count = 128 
+
+k= 26 
+
+iteration: 1
+
+
+GCN on metrics: 0.955
+
+Time: 0:00:06.195514
+
+GCN on vanilla: 0.955
+  
+
+depth = 15 , trees count = 128 
+
+k= 1 
+
+iteration: 1
+
+
+GCN on metrics: 0.995
+
+Time: 0:00:05.823056
+
+k= 2 
+
+iteration: 1
+
+
+GCN on metrics: 0.995
+
+Time: 0:00:05.898276
+
+k= 3 
+
+iteration: 1
+
+
+GCN on metrics: 0.995
+
+Time: 0:00:06.299358
+
+k= 4 
+
+iteration: 1
+
+
+GCN on metrics: 0.99
+
+Time: 0:00:05.933215
+
+k= 5 
+
+iteration: 1
+
+
+GCN on metrics: 0.995
+
+Time: 0:00:05.895107
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.995
+
+Time: 0:00:06.468584
+
+k= 7 
+
+iteration: 1
+
+
+GCN on metrics: 0.99
+
+Time: 0:00:06.146303
+
+GCN on vanilla: 0.945
+  
+
+GCN on random: 0.91
+  
+

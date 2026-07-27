@@ -1,0 +1,239 @@
+depth = 15 , trees count = 128 
+
+k= 1 
+
+iteration: 1
+
+
+GCN on metrics: 0.877
+
+Time: 0:01:17.711384
+
+k= 2 
+
+iteration: 1
+
+
+GCN on metrics: 0.952
+
+Time: 0:01:19.038775
+
+k= 3 
+
+iteration: 1
+
+
+GCN on metrics: 0.95
+
+Time: 0:01:20.589240
+
+k= 4 
+
+iteration: 1
+
+
+GCN on metrics: 0.947
+
+Time: 0:01:11.062514
+
+k= 5 
+
+iteration: 1
+
+
+GCN on metrics: 0.955
+
+Time: 0:01:20.649723
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.961
+
+Time: 0:01:19.458684
+
+k= 7 
+
+iteration: 1
+
+
+GCN on metrics: 0.966
+
+Time: 0:01:19.923866
+
+k= 8 
+
+iteration: 1
+
+
+GCN on metrics: 0.956
+
+Time: 0:01:18.777541
+
+k= 9 
+
+iteration: 1
+
+
+GCN on metrics: 0.962
+
+Time: 0:01:18.460849
+
+k= 10 
+
+iteration: 1
+
+
+GCN on metrics: 0.96
+
+Time: 0:01:18.773573
+
+k= 11 
+
+iteration: 1
+
+
+GCN on metrics: 0.91
+
+Time: 0:01:19.434736
+
+k= 12 
+
+iteration: 1
+
+
+GCN on metrics: 0.907
+
+Time: 0:01:18.227000
+
+k= 13 
+
+iteration: 1
+
+
+GCN on metrics: 0.891
+
+Time: 0:01:20.558355
+
+k= 14 
+
+iteration: 1
+
+
+GCN on metrics: 0.91
+
+Time: 0:01:19.126269
+
+k= 15 
+
+iteration: 1
+
+
+GCN on metrics: 0.894
+
+Time: 0:01:11.182111
+
+k= 16 
+
+iteration: 1
+
+
+GCN on metrics: 0.866
+
+Time: 0:01:18.740955
+
+k= 17 
+
+iteration: 1
+
+
+GCN on metrics: 0.896
+
+Time: 0:01:18.619566
+
+k= 18 
+
+iteration: 1
+
+
+GCN on metrics: 0.876
+
+Time: 0:01:18.813269
+
+k= 19 
+
+iteration: 1
+
+
+GCN on metrics: 0.845
+
+Time: 0:01:19.884559
+
+k= 20 
+
+iteration: 1
+
+
+GCN on metrics: 0.908
+
+Time: 0:01:20.227613
+
+k= 21 
+
+iteration: 1
+
+
+GCN on metrics: 0.907
+
+Time: 0:01:19.279205
+
+k= 22 
+
+iteration: 1
+
+
+GCN on metrics: 0.858
+
+Time: 0:01:19.961189
+
+k= 23 
+
+iteration: 1
+
+
+GCN on metrics: 0.9
+
+Time: 0:01:20.183316
+
+k= 24 
+
+iteration: 1
+
+
+GCN on metrics: 0.84
+
+Time: 0:01:19.910072
+
+k= 25 
+
+iteration: 1
+
+
+GCN on metrics: 0.89
+
+Time: 0:01:21.738216
+
+k= 26 
+
+iteration: 1
+
+
+GCN on metrics: 0.902
+
+Time: 0:01:20.706756
+
+GCN on vanilla: 0.933
+  
+

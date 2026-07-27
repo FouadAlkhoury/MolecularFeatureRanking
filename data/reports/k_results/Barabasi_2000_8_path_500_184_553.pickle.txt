@@ -1,0 +1,275 @@
+depth = 15 , trees count = 128 
+
+k= 1 
+
+iteration: 1
+
+
+GCN on metrics: 0.688
+
+Time: 0:00:00.679553
+
+depth = 15 , trees count = 128 
+
+k= 1 
+
+iteration: 1
+
+
+GCN on metrics: 0.634
+
+Time: 0:00:00.678365
+
+depth = 15 , trees count = 128 
+
+k= 1 
+
+iteration: 1
+
+
+GCN on metrics: 0.587
+
+Time: 0:00:00.679409
+
+depth = 15 , trees count = 128 
+
+k= 1 
+
+iteration: 1
+
+
+GCN on metrics: 0.877
+
+Time: 0:00:14.034547
+
+k= 2 
+
+iteration: 1
+
+
+GCN on metrics: 0.921
+
+Time: 0:00:13.797478
+
+k= 3 
+
+iteration: 1
+
+
+GCN on metrics: 0.878
+
+Time: 0:00:14.580929
+
+k= 4 
+
+iteration: 1
+
+
+GCN on metrics: 0.876
+
+Time: 0:00:14.106714
+
+k= 5 
+
+iteration: 1
+
+
+GCN on metrics: 0.909
+
+Time: 0:00:13.541333
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.908
+
+Time: 0:00:14.198547
+
+k= 7 
+
+iteration: 1
+
+
+GCN on metrics: 0.903
+
+Time: 0:00:13.954841
+
+k= 8 
+
+iteration: 1
+
+
+GCN on metrics: 0.913
+
+Time: 0:00:13.505842
+
+k= 9 
+
+iteration: 1
+
+
+GCN on metrics: 0.923
+
+Time: 0:00:14.414768
+
+k= 10 
+
+iteration: 1
+
+
+GCN on metrics: 0.931
+
+Time: 0:00:14.139960
+
+k= 11 
+
+iteration: 1
+
+
+GCN on metrics: 0.937
+
+Time: 0:00:14.401573
+
+k= 12 
+
+iteration: 1
+
+
+GCN on metrics: 0.908
+
+Time: 0:00:13.522404
+
+k= 13 
+
+iteration: 1
+
+
+GCN on metrics: 0.893
+
+Time: 0:00:13.118571
+
+k= 14 
+
+iteration: 1
+
+
+GCN on metrics: 0.783
+
+Time: 0:00:13.764109
+
+k= 15 
+
+iteration: 1
+
+
+GCN on metrics: 0.764
+
+Time: 0:00:14.049695
+
+k= 16 
+
+iteration: 1
+
+
+GCN on metrics: 0.783
+
+Time: 0:00:13.881986
+
+k= 17 
+
+iteration: 1
+
+
+GCN on metrics: 0.672
+
+Time: 0:00:14.413507
+
+k= 18 
+
+iteration: 1
+
+
+GCN on metrics: 0.806
+
+Time: 0:00:14.055594
+
+k= 19 
+
+iteration: 1
+
+
+GCN on metrics: 0.874
+
+Time: 0:00:13.706894
+
+k= 20 
+
+iteration: 1
+
+
+GCN on metrics: 0.819
+
+Time: 0:00:14.264231
+
+k= 21 
+
+iteration: 1
+
+
+GCN on metrics: 0.783
+
+Time: 0:00:13.980950
+
+k= 22 
+
+iteration: 1
+
+
+GCN on metrics: 0.802
+
+Time: 0:00:13.664514
+
+k= 23 
+
+iteration: 1
+
+
+GCN on metrics: 0.801
+
+Time: 0:00:14.343352
+
+k= 24 
+
+iteration: 1
+
+
+GCN on metrics: 0.778
+
+Time: 0:00:14.636264
+
+k= 25 
+
+iteration: 1
+
+
+GCN on metrics: 0.773
+
+Time: 0:00:14.545536
+
+k= 26 
+
+iteration: 1
+
+
+GCN on metrics: 0.84
+
+Time: 0:00:13.856125
+
+GCN on vanilla: 0.861
+  
+
+GCN on random: 0.777
+  
+

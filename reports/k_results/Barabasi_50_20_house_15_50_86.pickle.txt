@@ -1,0 +1,47 @@
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.52
+
+Time: 0:00:02.754251
+
+GCN on vanilla: 0.48
+  
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.64
+
+Time: 0:00:02.769005
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.52
+
+Time: 0:00:02.767821
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.48
+
+Time: 0:00:02.770213
+

@@ -1,0 +1,14 @@
+depth = 15 , trees count = 128 
+
+k= 26 
+
+iteration: 1
+
+
+GCN on metrics: 1.0
+
+Time: 0:00:07.265745
+
+GCN on vanilla: 1.0
+  
+

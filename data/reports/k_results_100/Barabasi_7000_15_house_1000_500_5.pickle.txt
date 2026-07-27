@@ -1,0 +1,239 @@
+depth = 15 , trees count = 128 
+
+k= 1 
+
+iteration: 1
+
+
+GCN on metrics: 0.793
+
+Time: 0:01:53.812050
+
+k= 2 
+
+iteration: 1
+
+
+GCN on metrics: 0.835
+
+Time: 0:01:54.616896
+
+k= 3 
+
+iteration: 1
+
+
+GCN on metrics: 0.886
+
+Time: 0:01:55.076122
+
+k= 4 
+
+iteration: 1
+
+
+GCN on metrics: 0.908
+
+Time: 0:01:54.499665
+
+k= 5 
+
+iteration: 1
+
+
+GCN on metrics: 0.896
+
+Time: 0:01:55.428449
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.923
+
+Time: 0:01:54.692039
+
+k= 7 
+
+iteration: 1
+
+
+GCN on metrics: 0.894
+
+Time: 0:01:53.758721
+
+k= 8 
+
+iteration: 1
+
+
+GCN on metrics: 0.919
+
+Time: 0:01:53.234206
+
+k= 9 
+
+iteration: 1
+
+
+GCN on metrics: 0.928
+
+Time: 0:01:54.857596
+
+k= 10 
+
+iteration: 1
+
+
+GCN on metrics: 0.917
+
+Time: 0:01:56.556294
+
+k= 11 
+
+iteration: 1
+
+
+GCN on metrics: 0.77
+
+Time: 0:01:56.270078
+
+k= 12 
+
+iteration: 1
+
+
+GCN on metrics: 0.748
+
+Time: 0:01:54.315364
+
+k= 13 
+
+iteration: 1
+
+
+GCN on metrics: 0.763
+
+Time: 0:01:54.328341
+
+k= 14 
+
+iteration: 1
+
+
+GCN on metrics: 0.77
+
+Time: 0:01:53.699188
+
+k= 15 
+
+iteration: 1
+
+
+GCN on metrics: 0.759
+
+Time: 0:01:53.424854
+
+k= 16 
+
+iteration: 1
+
+
+GCN on metrics: 0.744
+
+Time: 0:01:53.415267
+
+k= 17 
+
+iteration: 1
+
+
+GCN on metrics: 0.751
+
+Time: 0:01:53.688842
+
+k= 18 
+
+iteration: 1
+
+
+GCN on metrics: 0.751
+
+Time: 0:01:53.122790
+
+k= 19 
+
+iteration: 1
+
+
+GCN on metrics: 0.752
+
+Time: 0:01:53.884235
+
+k= 20 
+
+iteration: 1
+
+
+GCN on metrics: 0.757
+
+Time: 0:01:52.938854
+
+k= 21 
+
+iteration: 1
+
+
+GCN on metrics: 0.776
+
+Time: 0:01:53.734082
+
+k= 22 
+
+iteration: 1
+
+
+GCN on metrics: 0.749
+
+Time: 0:01:53.954634
+
+k= 23 
+
+iteration: 1
+
+
+GCN on metrics: 0.813
+
+Time: 0:01:54.964423
+
+k= 24 
+
+iteration: 1
+
+
+GCN on metrics: 0.756
+
+Time: 0:01:54.527361
+
+k= 25 
+
+iteration: 1
+
+
+GCN on metrics: 0.748
+
+Time: 0:01:55.872763
+
+k= 26 
+
+iteration: 1
+
+
+GCN on metrics: 0.752
+
+Time: 0:01:54.528954
+
+GCN on vanilla: 0.82
+  
+

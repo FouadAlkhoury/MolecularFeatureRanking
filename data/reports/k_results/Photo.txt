@@ -1,0 +1,271 @@
+depth = 15 , trees count = 128 
+
+k= 4 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.556
+
+Time: 0:01:31.614615
+
+GCN on metrics: 0.563
+
+Time: 0:01:32.171567
+
+GCN on metrics+predictions: 0.513
+  
+
+Time: 0:01:38.986133
+
+k= 6 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.699
+
+Time: 0:01:32.541950
+
+GCN on metrics: 0.671
+
+Time: 0:01:32.145255
+
+GCN on metrics+predictions: 0.458
+  
+
+Time: 0:01:31.252495
+
+k= 8 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.707
+
+Time: 0:01:31.528868
+
+GCN on metrics: 0.703
+
+Time: 0:01:30.378481
+
+GCN on metrics+predictions: 0.464
+  
+
+Time: 0:01:32.595114
+
+k= 26 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.787
+
+Time: 0:01:43.197462
+
+GCN on metrics: 0.782
+
+Time: 0:01:31.457555
+
+GCN on metrics+predictions: 0.744
+  
+
+Time: 0:01:46.786974
+
+GCN on vanilla: 0.405
+  
+
+GCN on random: 0.562
+  
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.614
+
+Time: 0:01:46.113700
+
+GCN on metrics: 0.782
+
+Time: 0:02:05.249812
+
+GCN on metrics+predictions: 0.744
+  
+
+Time: 0:02:03.781469
+
+k= 26 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.765
+
+Time: 0:01:37.068016
+
+GCN on metrics: 0.725
+
+Time: 0:02:00.606455
+
+GCN on metrics+predictions: 0.716
+  
+
+Time: 0:02:50.804284
+
+GCN on vanilla: 0.42
+  
+
+GCN on random: 0.54
+  
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.601
+
+Time: 0:01:30.754471
+
+GCN on metrics: 0.784
+
+Time: 0:02:06.252686
+
+GCN on metrics+predictions: 0.876
+  
+
+Time: 0:01:53.943449
+
+k= 26 
+
+iteration: 1
+
+
+Random Forest (over metrics): 0.758
+
+Time: 0:01:36.654278
+
+GCN on metrics: 0.806
+
+Time: 0:02:06.539428
+
+GCN on metrics+predictions: 0.884
+  
+
+Time: 0:02:06.274355
+
+GCN on vanilla: 0.382
+  
+
+GCN on random: 0.512
+  
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.876
+
+Time: 0:26:51.413494
+
+iteration: 2
+
+
+GCN on metrics: 0.885
+
+Time: 0:27:05.074223
+
+iteration: 3
+
+
+GCN on metrics: 0.883
+
+Time: 0:26:58.406301
+
+k= 26 
+
+iteration: 1
+
+
+GCN on metrics: 0.878
+
+Time: 0:27:18.197307
+
+iteration: 2
+
+
+GCN on metrics: 0.882
+
+Time: 0:27:21.648457
+
+iteration: 3
+
+
+GCN on metrics: 0.878
+
+Time: 0:27:17.624460
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.648
+
+Time: 0:01:55.080991
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.681
+
+Time: 0:01:54.503631
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.794
+
+Time: 0:01:54.671324
+
+depth = 15 , trees count = 128 
+
+k= 6 
+
+iteration: 1
+
+
+GCN on metrics: 0.859
+
+Time: 0:13:34.869569
+
+depth = 15 , trees count = 128 
+
+k= 4 
+
+iteration: 1
+
+
+GCN on metrics: 0.766
+
+Time: 0:13:15.925031
+

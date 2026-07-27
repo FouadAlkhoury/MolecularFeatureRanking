@@ -1,0 +1,1315 @@
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_grid_5000_3150_602.pickle,6,0.92,0.0,1,7,9,10,17,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_grid_5000_3150_602.pickle,6,0.736,0.184,0,4,8,10,14,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_grid_5000_3150_602.pickle,6,0.7763333333333332,0.16069916683736174,0,4,12,15,22,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_grid_5000_3150_602.pickle,6,0.6439999999999999,0.2681501445086316,8,14,15,19,20,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_grid_5000_3150_602.pickle,6,0.6809999999999998,0.250997211139885,0,6,9,12,13,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_house_5000_2850_601.pickle,6,0.6886666666666666,0.22976848251132173,2,3,7,14,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_house_5000_2850_601.pickle,6,0.7194285714285714,0.22567540352263035,10,11,14,18,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_house_5000_2850_601.pickle,6,0.746375,0.22281378856569897,0,5,16,19,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_house_5000_2850_601.pickle,6,0.746,0.2100735320998076,1,2,7,12,24,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_10000_250000_house_5000_2850_601.pickle,6,0.7659,0.20804300036290574,5,11,20,22,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_path_2500_3123_603.pickle,6,0.866,0.0,5,8,9,10,16,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_path_2500_3123_603.pickle,6,0.9099999999999999,0.043999999999999984,7,14,19,22,24,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_path_2500_3123_603.pickle,6,0.8959999999999999,0.04102032016777374,2,4,7,8,16,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_path_2500_3123_603.pickle,6,0.90775,0.0409412689104771,1,10,12,14,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_path_2500_3123_603.pickle,6,0.9168,0.04084801096748774,4,12,16,18,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_star_2500_3123_602.pickle,6,0.9295,0.04687127762998003,0,5,12,18,19,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_star_2500_3123_602.pickle,6,0.9302857142857144,0.04343702925159686,7,8,10,11,15,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_star_2500_3123_602.pickle,6,0.93875,0.046394369270419004,0,5,14,15,19,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_star_2500_3123_602.pickle,6,0.9453333333333332,0.04753945729601885,5,6,14,15,17,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_star_2500_3123_602.pickle,6,0.9440999999999999,0.045251408817847866,5,8,13,20,23,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_house_2500_3173_601.pickle,6,0.9414545454545453,0.04394906894528056,3,7,11,12,14,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_house_2500_3173_601.pickle,6,0.9400833333333333,0.04232307946682939,1,3,16,18,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_house_2500_3173_601.pickle,6,0.8725384615384614,0.23748930838594215,3,7,8,13,15,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_house_2500_3173_601.pickle,6,0.8674999999999998,0.22957032847100628,1,5,8,9,10,11,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_25000_12_house_2500_3173_601.pickle,6,0.8743333333333332,0.22325491160455024,0,7,10,11,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.622,0.0,0,3,4,6,10,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.623,0.0010000000000000009,2,5,6,7,15,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.611,0.01699019324983289,2,3,5,7,10,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.6174999999999999,0.01852700731364892,1,2,10,11,13,14,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.6157999999999999,0.016916264363032413,6,8,9,10,14,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.5868333333333333,0.06658682719243766,3,4,10,15,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.561,0.08834348549028065,4,11,12,13,14,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.306,0.0,0,4,10,11,16,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.38,0.0,2,6,12,14,17,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.3855,0.005500000000000005,9,10,11,12,17,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.3233333333333333,0.0880315599972848,4,12,14,18,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.29825,0.08774786322184717,6,8,10,11,12,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.62,0.0,1,3,4,13,16,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.6265000000000001,0.006500000000000006,2,3,7,13,16,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.633,0.010614455552060448,4,7,8,10,11,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.605,0.0,3,11,18,20,21,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.697,0.0,1,3,8,10,13,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.646,0.0,0,4,5,11,18,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.5425,0.10350000000000001,7,11,12,16,17,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+PubMed,6,0.5609999999999999,0.08846468221838588,5,14,15,17,19,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.648,0.0,0,1,5,7,10,11,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.592,0.0,2,4,10,14,17,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.5895,0.035499999999999976,0,3,7,14,16,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.5295,0.06525526798657715,3,6,11,13,15,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+PubMed,6,0.5176666666666666,0.07549981604098265,1,6,10,12,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CS,6,0.2775,0.1655,0,2,5,9,14,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Physics,6,0.482,0.23752578807363214,5,7,9,11,22,25,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.587,0,3,6,7,8,19,24,
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.586,0,3,6,7,8,19,24,
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.587,0,3,6,7,8,19,24,
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.5866666666666667,0.00047140452079103207,3,6,7,8,19,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.591,0,8,16,18,20,23,24,
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.591,0,8,16,18,20,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.602,0,0,5,8,14,16,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.819,0,2,3,13,15,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.812,0,0,4,12,15,18,22,
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.7443333333333332,0.10068542871515995,0,4,12,15,18,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.837,0,2,11,13,14,19,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.763,0,1,5,8,14,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.917,0,1,3,12,14,16,23,
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.8390000000000001,0.06288614049746309,1,3,12,14,16,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.944,0,5,7,9,16,17,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.931,0,5,9,11,13,17,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.877,0,1,4,6,9,15,20,
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.9173333333333332,0.029009576962712762,1,4,6,9,15,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_3500_12_grid_500_483_590.pickle,6,0.918,0,1,3,5,15,16,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_3500_12_grid_500_483_590.pickle,6,0.689,0,5,7,8,9,10,14,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_3500_12_grid_500_483_590.pickle,6,0.899,0,1,2,13,18,19,23,
+Barabasi_3500_12_grid_500_483_590.pickle,6,0.8353333333333334,0.10376362025724091,1,2,13,18,19,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.964,0,7,9,12,18,19,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.898,0,2,11,15,17,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.92,0,0,7,13,15,22,24,
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.9273333333333333,0.02743882083634221,0,7,13,15,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.53,0,1,18,20,21,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.577,0,11,14,15,18,20,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.391,0,0,1,8,11,13,24,
+Cora,6,0.49933333333333335,0.07896975511056255,0,1,8,11,13,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.368,0,7,10,13,15,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.441,0,3,5,6,18,20,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.359,0,0,1,13,18,19,24,
+CiteSeer,6,0.3893333333333333,0.03671814568060624,0,1,13,18,19,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+PubMed,6,0.569,0,0,1,6,9,16,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+PubMed,6,0.605,0,3,13,20,21,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+PubMed,6,0.577,0,3,7,11,14,16,19,
+PubMed,6,0.5836666666666667,0.015434449203720314,3,7,11,14,16,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,nan,nan,8,12,13,14,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,nan,nan,3,6,9,10,15,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,nan,nan,2,3,4,9,16,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,0.884,0,8,13,15,16,21,24,
+Erdos_300_500_house_10_50_921.pickle,6,0.884,0.0,8,13,15,16,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_5_house_20_50_381.pickle,6,0.8,0,2,4,8,13,22,24,
+Barabasi_200_5_house_20_50_381.pickle,6,0.8,0.0,2,4,8,13,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_house_15_50_546.pickle,6,0.914,0,9,13,16,18,22,23,
+Erdos_100_750_house_15_50_546.pickle,6,0.914,0.0,9,13,16,18,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_500_path_15_50_728.pickle,6,0.927,0,4,9,11,14,19,22,
+Erdos_200_500_path_15_50_728.pickle,6,0.927,0.0,4,9,11,14,19,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_250_house_15_50_506.pickle,6,0.771,0,3,8,13,15,19,21,
+Erdos_100_250_house_15_50_506.pickle,6,0.771,0.0,3,8,13,15,19,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_3_grid_15_50_110.pickle,6,0.596,0,6,9,10,13,19,21,
+Barabasi_100_3_grid_15_50_110.pickle,6,0.596,0.0,6,9,10,13,19,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_250_3_grid_10_50_405.pickle,6,0.882,0,5,6,8,10,13,21,
+Barabasi_250_3_grid_10_50_405.pickle,6,0.882,0.0,5,6,8,10,13,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_10_house_15_50_46.pickle,6,0.64,0,0,4,6,9,12,18,
+Barabasi_50_10_house_15_50_46.pickle,6,0.64,0.0,0,4,6,9,12,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_path_20_50_553.pickle,6,0.875,0,1,2,3,7,9,16,
+Erdos_100_750_path_20_50_553.pickle,6,0.875,0.0,1,2,3,7,9,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_1250_grid_20_50_595.pickle,6,0.768,0,2,12,14,19,22,24,
+Erdos_100_1250_grid_20_50_595.pickle,6,0.768,0.0,2,12,14,19,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_150_5_grid_15_50_280.pickle,6,0.719,0,1,5,15,22,23,24,
+Barabasi_150_5_grid_15_50_280.pickle,6,0.719,0.0,1,5,15,22,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_star_10_50_922.pickle,6,0.91,0,13,15,16,17,21,22,
+Erdos_300_500_star_10_50_922.pickle,6,0.91,0.0,13,15,16,17,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_house_15_50_86.pickle,6,0.52,0,0,3,6,8,10,15,
+Barabasi_50_20_house_15_50_86.pickle,6,0.52,0.0,0,3,6,8,10,15,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_10_house_10_50_391.pickle,6,0.92,0,7,8,9,12,15,20,
+Barabasi_200_10_house_10_50_391.pickle,6,0.92,0.0,7,8,9,12,15,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_grid_10_50_705.pickle,6,0.815,0,0,2,9,13,14,15,
+Erdos_200_250_grid_10_50_705.pickle,6,0.815,0.0,0,2,9,13,14,15,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_grid_25_50_100.pickle,6,0.745,0,3,4,13,15,17,19,
+Barabasi_50_20_grid_25_50_100.pickle,6,0.745,0.0,3,4,13,15,17,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_15_grid_20_50_175.pickle,6,0.893,0,5,12,13,17,20,24,
+Barabasi_100_15_grid_20_50_175.pickle,6,0.893,0.0,5,12,13,17,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_25_50_716.pickle,6,0.839,0,5,6,12,16,20,24,
+Erdos_200_250_house_25_50_716.pickle,6,0.839,0.0,5,6,12,16,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_20_50_711.pickle,6,0.845,0,1,7,11,13,15,16,
+Erdos_200_250_house_20_50_711.pickle,6,0.845,0.0,1,7,11,13,15,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.968,0,0,1,3,9,12,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.847,0,6,8,14,20,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.966,0,0,3,4,5,16,19,
+Barabasi_7500_10_grid_250_500_4.pickle,6,0.9269999999999999,0.05657443474456167,0,3,4,5,16,19,
+avg Large,6,0.9269999999999999,0.05657443474456167,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.785,0,4,9,10,15,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.572,0,5,7,8,9,13,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.736,0,2,15,16,19,20,22,
+Erdos_1500_42500_grid_500_500_2.pickle,6,0.6976666666666667,0.09108360018259175,2,15,16,19,20,22,
+avg Large,6,0.6976666666666667,0.09108360018259175,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_star_1000_500_2.pickle,6,0.994,0,9,11,12,16,19,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_star_1000_500_2.pickle,6,0.392,0,5,8,9,10,11,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_42500_star_1000_500_2.pickle,6,0.987,0,2,6,12,13,17,23,
+Erdos_1500_42500_star_1000_500_2.pickle,6,0.791,0.28215007826804983,2,6,12,13,17,23,
+avg Large,6,0.7443333333333332,0.21477947346574397,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.913,0,5,9,13,18,20,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.91,0,2,12,13,16,17,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.95,0,5,10,16,17,18,23,
+Erdos_3000_57500_path_1000_500_3.pickle,6,0.9243333333333332,0.018190351532856298,5,10,16,17,18,23,
+avg Large,6,0.8043333333333333,0.195099404862695,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2000_9_cycle_300_500_1.pickle,6,1.0,0,14,15,17,18,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2000_9_cycle_300_500_1.pickle,6,0.999,0,2,5,8,15,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2000_9_cycle_300_500_1.pickle,6,1.0,0,1,7,8,12,14,15,
+Barabasi_2000_9_cycle_300_500_1.pickle,6,0.9996666666666667,0.00047140452079103207,1,7,8,12,14,15,
+avg Large,6,0.8531666666666667,0.18894965525827834,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.928,0,1,11,13,16,18,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.908,0,0,3,13,16,20,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.938,0,1,2,5,9,17,24,
+Barabasi_7000_15_path_1000_500_5.pickle,6,0.9246666666666666,0.012472191289246443,1,2,5,9,17,24,
+avg Large,6,0.8674666666666668,0.17149533197404787,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_5500_11_path_500_500_3.pickle,6,0.816,0,4,8,9,14,20,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_5500_11_path_500_500_3.pickle,6,0.947,0,4,7,11,13,16,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_5500_11_path_500_500_3.pickle,6,0.886,0,1,2,7,19,22,24,
+Barabasi_5500_11_path_500_500_3.pickle,6,0.883,0.05352258090438714,1,2,7,19,22,24,
+avg Large,6,0.8700555555555555,0.15817657932485954,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_star_1000_500_3.pickle,6,0.876,0,8,12,15,16,19,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_star_1000_500_3.pickle,6,0.999,0,0,1,6,9,10,15,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_3000_57500_star_1000_500_3.pickle,6,0.998,0,1,3,4,9,10,24,
+Erdos_3000_57500_star_1000_500_3.pickle,6,0.9576666666666668,0.05774849685393455,1,3,4,9,10,24,
+avg Large,6,0.8825714285714286,0.15120140192993659,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_2500_69000_cycle_1500_500_4.pickle,6,1.0,0,12,14,16,17,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_2500_69000_cycle_1500_500_4.pickle,6,1.0,0,2,9,14,15,17,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_2500_69000_cycle_1500_500_4.pickle,6,1.0,0,7,8,10,17,21,24,
+Erdos_2500_69000_cycle_1500_500_4.pickle,6,1.0,0.0,7,8,10,17,21,24,
+avg Large,6,0.89725,0.1466709042948419,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_2500_20000_grid_600_1390_535.pickle,6,0.792,0,1,5,11,14,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_2500_20000_grid_600_1390_535.pickle,6,0.809,0,5,11,13,14,15,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_2500_20000_grid_600_1390_535.pickle,6,0.62,0,0,1,4,8,15,16,
+Erdos_2500_20000_grid_600_1390_535.pickle,6,0.7403333333333334,0.08537108539911055,0,1,4,8,15,16,
+avg Large,6,0.8798148148148149,0.149545245732728,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_40000_house_600_2210_516.pickle,6,0.644,0,5,8,17,19,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_40000_house_600_2210_516.pickle,6,0.611,0,0,1,5,6,8,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1500_40000_house_600_2210_516.pickle,6,0.807,0,1,5,17,18,19,23,
+Erdos_1500_40000_house_600_2210_516.pickle,6,0.6873333333333332,0.08568287784356662,1,5,17,18,19,23,
+avg Large,6,0.8605666666666667,0.15555056698350184,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2500_8_star_500_224_562.pickle,6,0.986,0,2,3,6,11,15,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2500_8_star_500_224_562.pickle,6,0.996,0,5,9,10,13,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2500_8_star_500_224_562.pickle,6,0.888,0,0,1,8,13,19,22,
+Barabasi_2500_8_star_500_224_562.pickle,6,0.9566666666666667,0.048725991238990934,0,1,8,13,19,22,
+avg Large,6,0.8693030303030304,0.15157646032333186,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2000_12_house_500_273_556.pickle,6,0.929,0,1,2,6,17,18,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2000_12_house_500_273_556.pickle,6,0.947,0,3,4,9,13,17,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_2000_12_house_500_273_556.pickle,6,0.979,0,6,7,9,14,17,19,
+Barabasi_2000_12_house_500_273_556.pickle,6,0.9516666666666667,0.020677416559027738,6,7,9,14,17,19,
+avg Large,6,0.8761666666666666,0.14701917864309025,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1000_40000_house_600_2210_506.pickle,6,0.701,0,0,10,14,16,17,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1000_40000_house_600_2210_506.pickle,6,0.538,0,6,8,17,20,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_1000_40000_house_600_2210_506.pickle,6,0.67,0,0,1,3,6,12,16,
+Erdos_1000_40000_house_600_2210_506.pickle,6,0.6363333333333333,0.0706745278646337,0,1,3,6,12,16,
+avg Large,6,0.8577179487179486,0.15627046716706505,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_50_267_406.pickle,6,0.811,0,1,2,12,13,14,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_50_267_406.pickle,6,0.889,0,1,2,5,8,13,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_50_267_406.pickle,6,0.967,0,4,7,9,17,19,20,
+Erdos_650_5000_house_50_267_406.pickle,6,0.8890000000000001,0.0636867333123626,4,7,9,17,19,20,
+avg Large,6,0.8890000000000001,0.0636867333123626,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_40_385_378.pickle,6,0.894,0,3,11,12,15,20,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_40_385_378.pickle,6,0.906,0,0,7,10,15,16,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_40_385_378.pickle,6,0.919,0,3,5,6,11,19,20,
+Erdos_600_7500_path_40_385_378.pickle,6,0.9063333333333334,0.010208928554075711,3,5,6,11,19,20,
+avg Large,6,0.8976666666666668,0.046424370994362654,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_70_274_416.pickle,6,0.91,0,0,3,11,13,17,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_70_274_416.pickle,6,0.82,0,3,5,13,15,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_70_274_416.pickle,6,0.875,0,5,11,18,20,21,23,
+Erdos_650_5000_house_70_274_416.pickle,6,0.8683333333333333,0.03704351795148814,5,11,18,20,21,23,
+avg Large,6,0.8878888888888888,0.0456665314947986,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_50_262_307.pickle,6,0.994,0,1,10,12,13,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_50_262_307.pickle,6,0.931,0,6,8,10,13,14,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_50_262_307.pickle,6,0.981,0,0,2,7,13,16,20,
+Erdos_550_5000_star_50_262_307.pickle,6,0.9686666666666667,0.02715797406942488,0,2,7,13,16,20,
+avg Large,6,0.9080833333333334,0.05451522468285554,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_60_271_411.pickle,6,0.947,0,1,3,7,9,17,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_60_271_411.pickle,6,0.895,0,2,6,7,11,17,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_60_271_411.pickle,6,0.874,0,7,8,10,12,13,23,
+Erdos_650_5000_house_60_271_411.pickle,6,0.9053333333333334,0.03068477726097346,7,8,10,12,13,23,
+avg Large,6,0.9075333333333333,0.050666052627858116,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_80_395_398.pickle,6,0.84,0,0,5,6,7,14,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_80_395_398.pickle,6,0.885,0,0,6,11,15,17,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_80_395_398.pickle,6,0.88,0,2,10,11,12,17,20,
+Erdos_600_7500_path_80_395_398.pickle,6,0.8683333333333333,0.020138409955990973,2,10,11,12,17,20,
+avg Large,6,0.901,0.0491957541076689,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_40_276_455.pickle,6,0.92,0,0,3,4,7,20,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_40_276_455.pickle,6,0.925,0,1,4,7,12,17,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_40_276_455.pickle,6,0.849,0,8,12,14,15,18,21,
+Erdos_700_5000_grid_40_276_455.pickle,6,0.898,0.03470830832332035,8,12,14,15,18,21,
+avg Large,6,0.9005714285714287,0.04740963477382794,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_80_403_296.pickle,6,0.822,0,5,6,15,16,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_80_403_296.pickle,6,0.8,0,0,14,15,16,17,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_80_403_296.pickle,6,0.744,0,0,1,6,8,18,21,
+Erdos_500_7500_house_80_403_296.pickle,6,0.7886666666666665,0.032836294282732666,0,1,6,8,18,21,
+avg Large,6,0.8865833333333333,0.05891654879761901,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_40_260_302.pickle,6,0.96,0,6,8,9,12,14,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_40_260_302.pickle,6,0.967,0,5,13,15,17,18,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_40_260_302.pickle,6,0.98,0,4,9,11,19,21,22,
+Erdos_550_5000_star_40_260_302.pickle,6,0.969,0.008286535263104043,4,9,11,19,21,22,
+avg Large,6,0.8957407407407407,0.06135120065388716,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_80_302_475.pickle,6,0.757,0,0,13,14,16,18,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_80_302_475.pickle,6,0.827,0,4,5,7,19,20,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_80_302_475.pickle,6,0.743,0,0,5,10,15,16,19,
+Erdos_700_5000_grid_80_302_475.pickle,6,0.7756666666666666,0.036745370078721765,0,5,10,15,16,19,
+avg Large,6,0.8837333333333333,0.06942762818615912,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_80_270_322.pickle,6,0.937,0,0,1,2,7,8,15,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_80_270_322.pickle,6,0.995,0,11,12,16,18,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_80_270_322.pickle,6,0.989,0,5,7,9,18,19,22,
+Erdos_550_5000_star_80_270_322.pickle,6,0.9736666666666666,0.02604269997949945,5,7,9,18,19,22,
+avg Large,6,0.8919090909090909,0.0714988296731359,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_70_392_393.pickle,6,0.784,0,0,6,14,18,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_70_392_393.pickle,6,0.853,0,3,8,9,19,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_70_392_393.pickle,6,0.832,0,2,13,17,18,21,23,
+Erdos_600_7500_path_70_392_393.pickle,6,0.823,0.02887905815638728,2,13,17,18,21,23,
+avg Large,6,0.8861666666666667,0.07154233400970056,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_40_264_401.pickle,6,0.882,0,2,3,5,10,12,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_40_264_401.pickle,6,0.9,0,9,11,13,19,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_40_264_401.pickle,6,0.894,0,8,9,11,18,20,24,
+Erdos_650_5000_house_40_264_401.pickle,6,0.892,0.00748331477354789,8,9,11,18,20,24,
+avg Large,6,0.8866153846153845,0.06878454484451763,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_70_399_291.pickle,6,0.788,0,3,10,13,14,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_70_399_291.pickle,6,0.824,0,3,6,7,12,18,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_70_399_291.pickle,6,0.818,0,3,6,13,21,22,24,
+Erdos_500_7500_house_70_399_291.pickle,6,0.81,0.015748015748023585,3,6,13,21,22,24,
+avg Large,6,0.881142857142857,0.06928497790477606,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_60_289_465.pickle,6,0.722,0,2,11,14,15,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_60_289_465.pickle,6,0.863,0,1,7,14,17,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_60_289_465.pickle,6,0.778,0,2,4,5,6,11,14,
+Erdos_700_5000_grid_60_289_465.pickle,6,0.7876666666666666,0.05796742380184083,2,4,5,6,11,14,
+avg Large,6,0.874911111111111,0.07244364007733406,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_40_389_276.pickle,6,0.857,0,1,2,4,6,8,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_40_389_276.pickle,6,0.843,0,4,6,16,21,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_40_389_276.pickle,6,0.85,0,0,2,9,16,19,23,
+Erdos_500_7500_house_40_389_276.pickle,6,0.85,0.005715476066494087,0,2,9,16,19,23,
+avg Large,6,0.8733541666666665,0.07041646634586891,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_80_278_421.pickle,6,0.919,0,1,5,7,14,17,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_80_278_421.pickle,6,0.871,0,2,12,17,18,20,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_650_5000_house_80_278_421.pickle,6,0.795,0,1,7,11,15,20,24,
+Erdos_650_5000_house_80_278_421.pickle,6,0.8616666666666667,0.05105117258420439,1,7,11,15,20,24,
+avg Large,6,0.8726666666666665,0.06948145941626716,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_70_295_470.pickle,6,0.891,0,11,16,17,20,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_70_295_470.pickle,6,0.801,0,0,7,10,15,17,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_70_295_470.pickle,6,0.789,0,0,4,6,8,18,23,
+Erdos_700_5000_grid_70_295_470.pickle,6,0.8270000000000001,0.04551922670696416,0,4,6,8,18,23,
+avg Large,6,0.8701296296296296,0.06916647825845725,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_70_267_317.pickle,6,1.0,0,3,16,17,20,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_70_267_317.pickle,6,0.906,0,4,8,12,16,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_70_267_317.pickle,6,0.944,0,1,5,7,11,16,23,
+Erdos_550_5000_star_70_267_317.pickle,6,0.9500000000000001,0.03860915262818735,1,5,7,11,16,23,
+avg Large,6,0.8743333333333334,0.07020504638565304,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_60_390_388.pickle,6,0.889,0,1,8,12,16,20,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_60_390_388.pickle,6,0.867,0,3,6,8,14,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_60_390_388.pickle,6,0.894,0,1,6,8,18,21,23,
+Erdos_600_7500_path_60_390_388.pickle,6,0.8833333333333333,0.011728408057172799,1,6,8,18,21,23,
+avg Large,6,0.8747833333333334,0.06850573982440368,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_50_387_383.pickle,6,0.859,0,2,7,10,19,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_50_387_383.pickle,6,0.906,0,0,6,9,10,13,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_600_7500_path_50_387_383.pickle,6,0.918,0,2,10,18,19,23,24,
+Erdos_600_7500_path_50_387_383.pickle,6,0.8943333333333334,0.025460208605237768,2,10,18,19,23,24,
+avg Large,6,0.8757142857142858,0.06721428149722504,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_60_265_312.pickle,6,0.976,0,2,12,17,18,20,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_60_265_312.pickle,6,1.0,0,6,9,10,13,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_550_5000_star_60_265_312.pickle,6,0.994,0,1,4,10,21,23,24,
+Erdos_550_5000_star_60_265_312.pickle,6,0.9899999999999999,0.01019803902718558,1,4,10,21,23,24,
+avg Large,6,0.8809090909090909,0.06988447767842065,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_60_396_286.pickle,6,0.794,0,0,3,4,6,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_60_396_286.pickle,6,0.838,0,1,2,4,13,19,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_60_396_286.pickle,6,0.812,0,1,4,9,14,23,24,
+Erdos_500_7500_house_60_396_286.pickle,6,0.8146666666666667,0.018061622912192054,1,4,9,14,23,24,
+avg Large,6,0.8780289855072463,0.06977229445047545,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_50_282_460.pickle,6,0.843,0,2,3,6,17,18,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_50_282_460.pickle,6,0.822,0,3,7,13,14,15,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_700_5000_grid_50_282_460.pickle,6,0.896,0,2,3,12,13,20,24,
+Erdos_700_5000_grid_50_282_460.pickle,6,0.8536666666666667,0.031137687061751348,2,3,12,13,20,24,
+avg Large,6,0.8770138888888889,0.06877085402010302,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_50_392_281.pickle,6,0.873,0,4,8,15,19,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_50_392_281.pickle,6,0.847,0,4,8,9,10,16,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_500_7500_house_50_392_281.pickle,6,0.84,0,6,8,10,14,16,19,
+Erdos_500_7500_house_50_392_281.pickle,6,0.8533333333333334,0.014197026292697916,6,8,10,14,16,19,
+avg Large,6,0.8760666666666667,0.06760065745899879,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_20_50_711.pickle,6,0.828,0,0,3,4,9,18,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_20_50_711.pickle,6,0.931,0,4,7,12,13,17,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_20_50_711.pickle,6,0.81,0,1,8,11,12,18,21,
+Erdos_200_250_house_20_50_711.pickle,6,0.8563333333333333,0.05330624311987816,1,8,11,12,18,21,
+avg Large,6,0.8563333333333333,0.05330624311987816,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,0.928,0,0,1,2,16,18,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,0.928,0,2,3,6,7,9,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,0.913,0,4,5,9,14,15,16,
+Erdos_300_500_house_10_50_921.pickle,6,0.923,0.007071067811865482,4,5,9,14,15,16,
+avg Large,6,0.8896666666666667,0.05056568885013721,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_25_50_716.pickle,6,0.871,0,2,3,6,13,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_25_50_716.pickle,6,0.855,0,4,12,13,14,18,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_25_50_716.pickle,6,0.823,0,1,5,10,11,12,17,
+Erdos_200_250_house_25_50_716.pickle,6,0.8496666666666667,0.01995550606279437,1,5,10,11,12,17,
+avg Large,6,0.8763333333333334,0.04682829154356254,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_grid_10_50_705.pickle,6,0.815,0,0,4,5,11,15,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_grid_10_50_705.pickle,6,0.815,0,4,9,11,12,21,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_grid_10_50_705.pickle,6,0.815,0,1,2,11,16,22,24,
+Erdos_200_250_grid_10_50_705.pickle,6,0.815,0.0,1,2,11,16,22,24,
+avg Large,6,0.8609999999999999,0.04847679857416332,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_star_10_50_922.pickle,6,0.866,0,0,8,14,17,18,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_star_10_50_922.pickle,6,0.925,0,0,14,16,17,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_star_10_50_922.pickle,6,0.925,0,1,10,12,13,14,19,
+Erdos_300_500_star_10_50_922.pickle,6,0.9053333333333334,0.027812866726670896,1,10,12,13,14,19,
+avg Large,6,0.8698666666666667,0.048468363106486535,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,0.87,0,5,10,16,18,19,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,0.971,0,4,9,12,18,20,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_house_10_50_921.pickle,6,0.928,0,1,4,7,9,20,21,
+Erdos_300_500_house_10_50_921.pickle,6,0.923,0.04138437708443449,1,4,7,9,20,21,
+avg Large,6,0.923,0.04138437708443449,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_5_house_20_50_381.pickle,6,0.8,0,3,12,13,16,20,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_5_house_20_50_381.pickle,6,0.917,0,2,5,6,7,18,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_5_house_20_50_381.pickle,6,0.833,0,1,3,4,8,15,21,
+Barabasi_200_5_house_20_50_381.pickle,6,0.85,0.04925444142409901,1,3,4,8,15,21,
+avg Large,6,0.8865,0.058323094339492426,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_house_15_50_546.pickle,6,0.686,0,4,7,9,12,14,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_house_15_50_546.pickle,6,0.771,0,0,3,9,10,16,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_house_15_50_546.pickle,6,0.771,0,5,7,11,13,15,20,
+Erdos_100_750_house_15_50_546.pickle,6,0.7426666666666667,0.040069384267237676,5,7,11,13,15,20,
+avg Large,6,0.8385555555555555,0.08602468781448873,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_500_path_15_50_728.pickle,6,0.982,0,0,3,9,18,19,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_500_path_15_50_728.pickle,6,0.945,0,0,4,5,8,16,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_500_path_15_50_728.pickle,6,0.873,0,0,2,15,19,20,21,
+Erdos_200_500_path_15_50_728.pickle,6,0.9333333333333332,0.045257289161219336,0,2,15,19,20,21,
+avg Large,6,0.86225,0.08801432175125438,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_250_house_15_50_506.pickle,6,0.857,0,0,11,12,18,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_250_house_15_50_506.pickle,6,0.8,0,3,4,7,13,14,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_250_house_15_50_506.pickle,6,0.8,0,5,6,9,12,15,18,
+Erdos_100_250_house_15_50_506.pickle,6,0.819,0.026870057685088777,5,6,9,12,15,18,
+avg Large,6,0.8536,0.08149175827448235,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_3_grid_15_50_110.pickle,6,0.723,0,0,15,17,18,20,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_3_grid_15_50_110.pickle,6,0.617,0,8,12,15,18,20,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_3_grid_15_50_110.pickle,6,0.574,0,0,5,13,20,21,24,
+Barabasi_100_3_grid_15_50_110.pickle,6,0.6379999999999999,0.06261522711502904,0,5,13,20,21,24,
+avg Large,6,0.8176666666666668,0.1124435660923094,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_250_3_grid_10_50_405.pickle,6,0.941,0,2,5,7,14,16,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_250_3_grid_10_50_405.pickle,6,0.912,0,2,4,7,15,18,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_250_3_grid_10_50_405.pickle,6,0.897,0,3,13,16,17,21,22,
+Barabasi_250_3_grid_10_50_405.pickle,6,0.9166666666666666,0.01826350337573693,3,13,16,17,21,22,
+avg Large,6,0.8318095238095238,0.10993228177366154,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_10_house_15_50_46.pickle,6,0.8,0,5,9,15,16,17,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_10_house_15_50_46.pickle,6,0.76,0,0,5,9,10,17,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_10_house_15_50_46.pickle,6,0.8,0,0,7,9,12,17,19,
+Barabasi_50_10_house_15_50_46.pickle,6,0.7866666666666667,0.018856180831641284,0,7,9,12,17,19,
+avg Large,6,0.8261666666666668,0.10412399125828568,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_path_20_50_553.pickle,6,0.65,0,0,6,11,14,16,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_path_20_50_553.pickle,6,0.8,0,4,5,7,8,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_750_path_20_50_553.pickle,6,0.85,0,0,7,10,13,17,24,
+Erdos_100_750_path_20_50_553.pickle,6,0.7666666666666667,0.08498365855987973,0,7,10,13,17,24,
+avg Large,6,0.8195555555555557,0.10387147804194029,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_1250_grid_20_50_595.pickle,6,0.679,0,1,5,6,13,16,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_1250_grid_20_50_595.pickle,6,0.661,0,1,6,9,11,15,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_100_1250_grid_20_50_595.pickle,6,0.643,0,1,7,8,11,13,23,
+Erdos_100_1250_grid_20_50_595.pickle,6,0.661,0.014696938456699081,1,7,8,11,13,23,
+avg Large,6,0.8037000000000002,0.10951960250719198,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_150_5_grid_15_50_280.pickle,6,0.842,0,1,3,8,17,21,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_150_5_grid_15_50_280.pickle,6,0.842,0,0,8,11,13,14,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_150_5_grid_15_50_280.pickle,6,0.754,0,6,8,11,18,19,21,
+Barabasi_150_5_grid_15_50_280.pickle,6,0.8126666666666665,0.04148359782961077,6,8,11,18,19,21,
+avg Large,6,0.8045151515151516,0.10520085297848722,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_star_10_50_922.pickle,6,0.896,0,2,8,13,18,20,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_star_10_50_922.pickle,6,0.925,0,2,4,6,11,16,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_300_500_star_10_50_922.pickle,6,0.955,0,4,7,8,17,18,20,
+Erdos_300_500_star_10_50_922.pickle,6,0.9253333333333335,0.02408780235351953,4,7,8,17,18,20,
+avg Large,6,0.8145833333333334,0.1063407455619278,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_house_15_50_86.pickle,6,0.64,0,7,9,10,14,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_house_15_50_86.pickle,6,0.52,0,3,4,10,11,12,13,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_house_15_50_86.pickle,6,0.48,0,7,8,10,11,13,23,
+Barabasi_50_20_house_15_50_86.pickle,6,0.5466666666666667,0.0679869268479038,7,8,10,11,13,23,
+avg Large,6,0.7939743589743591,0.12605869352937416,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_10_house_10_50_391.pickle,6,0.86,0,2,3,4,5,7,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_10_house_10_50_391.pickle,6,0.9,0,3,6,7,14,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_200_10_house_10_50_391.pickle,6,0.92,0,3,6,7,8,10,22,
+Barabasi_200_10_house_10_50_391.pickle,6,0.8933333333333334,0.024944382578492966,3,6,7,8,10,22,
+avg Large,6,0.8010714285714284,0.1243180239886211,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_grid_10_50_705.pickle,6,0.778,0,0,2,3,18,19,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_grid_10_50_705.pickle,6,0.833,0,10,11,15,18,19,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_grid_10_50_705.pickle,6,0.815,0,1,6,9,10,18,24,
+Erdos_200_250_grid_10_50_705.pickle,6,0.8086666666666668,0.0228958996814325,1,6,9,10,18,24,
+avg Large,6,0.8015777777777776,0.12026295058724701,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_grid_25_50_100.pickle,6,0.745,0,5,8,10,14,15,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_grid_25_50_100.pickle,6,0.745,0,4,10,12,16,17,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_50_20_grid_25_50_100.pickle,6,0.8,0,2,4,11,12,22,24,
+Barabasi_50_20_grid_25_50_100.pickle,6,0.7633333333333333,0.025927248643506765,2,4,11,12,22,24,
+avg Large,6,0.7991875,0.1169912133897955,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_15_grid_20_50_175.pickle,6,0.821,0,6,12,13,20,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_15_grid_20_50_175.pickle,6,0.804,0,0,7,9,12,22,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_100_15_grid_20_50_175.pickle,6,0.768,0,2,4,11,13,18,24,
+Barabasi_100_15_grid_20_50_175.pickle,6,0.7976666666666666,0.022095751225568713,2,4,11,13,18,24,
+avg Large,6,0.7990980392156863,0.11362515858216432,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_25_50_716.pickle,6,0.758,0,5,12,14,18,19,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_25_50_716.pickle,6,0.839,0,0,4,5,7,9,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_25_50_716.pickle,6,0.726,0,0,3,4,9,15,21,
+Erdos_200_250_house_25_50_716.pickle,6,0.7743333333333333,0.047555815160246755,0,3,4,9,15,21,
+avg Large,6,0.7977222222222223,0.11113612218500782,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_20_50_711.pickle,6,0.828,0,0,6,7,9,12,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_20_50_711.pickle,6,0.879,0,1,4,9,17,19,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_200_250_house_20_50_711.pickle,6,0.879,0,1,2,4,9,15,23,
+Erdos_200_250_house_20_50_711.pickle,6,0.862,0.024041630560342638,1,2,4,9,15,23,
+avg Large,6,0.8011052631578948,0.10925933806661703,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CS,6,0.365,0,0,6,9,12,19,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CS,6,0.388,0,2,6,9,10,11,18,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CS,6,0.409,0,13,14,15,17,21,24,
+CS,6,0.3873333333333333,0.017969109295924733,13,14,15,17,21,24,
+avg Large,6,0.3873333333333333,0.017969109295924733,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Physics,6,0.551,0,2,5,8,13,14,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Physics,6,0.755,0,4,6,11,16,18,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Physics,6,0.562,0,2,4,8,19,20,24,
+Physics,6,0.6226666666666667,0.09368149348842715,2,4,8,19,20,24,
+avg Large,6,0.505,0.1356281681657612,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora_ML,6,0.534,0,0,4,8,16,19,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora_ML,6,0.578,0,1,2,7,18,20,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora_ML,6,0.673,0,0,5,12,13,18,24,
+Cora_ML,6,0.5950000000000001,0.05800574684172826,0,5,12,13,18,24,
+avg Large,6,0.535,0.12322698117250495,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+DBLP,6,0.498,0,6,7,8,14,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+DBLP,6,0.579,0,1,3,5,8,11,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+DBLP,6,0.678,0,0,2,3,6,10,16,
+DBLP,6,0.585,0.07360706487831181,0,2,3,6,10,16,
+avg Large,6,0.5475,0.11494310186638722,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Roman-empire,6,0.227,0,1,5,7,14,18,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Roman-empire,6,0.179,0,0,1,2,8,13,21,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Roman-empire,6,0.231,0,1,4,17,18,19,21,
+Roman-empire,6,0.21233333333333335,0.02362672686222581,1,4,17,18,19,21,
+avg Large,6,0.4804666666666667,0.16927802246271928,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Amazon-ratings,6,0.361,0,1,2,3,6,9,13,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Amazon-ratings,6,0.369,0,0,1,9,16,17,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Amazon-ratings,6,0.362,0,0,4,11,13,16,20,
+Amazon-ratings,6,0.36400000000000005,0.0035590260840104404,0,4,11,13,16,20,
+avg Large,6,0.46105555555555555,0.16051565248086563,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Minesweeper,6,0.782,0,3,7,8,11,17,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Minesweeper,6,0.803,0,0,8,14,16,17,23,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Minesweeper,6,0.78,0,0,5,8,11,19,20,
+Minesweeper,6,0.7883333333333334,0.010402991022884833,0,5,8,11,19,20,
+avg Large,6,0.5078095238095238,0.18765815400999744,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Photo,6,0.648,0,4,8,9,19,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Photo,6,0.681,0,3,7,9,10,12,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Photo,6,0.794,0,4,7,9,11,17,23,
+Photo,6,0.7076666666666668,0.0625157757867742,4,7,9,11,17,23,
+avg Large,6,0.5327916666666667,0.18886745333846053,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Wiki,6,0.239,0,1,3,4,8,9,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Wiki,6,0.403,0,4,5,9,10,18,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Wiki,6,0.324,0,5,6,9,13,20,21,
+Wiki,6,0.322,0.0669676538835479,5,6,9,13,20,21,
+avg Large,6,0.5093703703703705,0.19129619232007503,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.462,0,4,5,6,12,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.462,0,0,7,8,10,17,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.462,0,2,4,5,15,18,19,
+Brazil,6,0.462,0.0,2,4,5,15,18,19,
+avg Large,6,0.5046333333333334,0.18203506682932155,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.55,0,1,5,6,9,11,19,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.471,0,0,8,12,17,22,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.357,0,7,10,13,14,18,22,
+USA,6,0.4593333333333333,0.07922261181141546,7,10,13,14,18,22,
+avg Large,6,0.5005151515151515,0.17568293085747977,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.512,0,2,3,6,8,10,17,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.55,0,5,6,9,17,18,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.438,0,0,1,4,10,11,16,
+Europe,6,0.5,0.046504480070920784,0,1,4,10,11,16,
+avg Large,6,0.5004722222222222,0.1687385364190395,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.597,0,6,8,16,20,22,24,
+USA,6,0.597,0.0,6,8,16,20,22,24,
+avg Large,6,0.597,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.462,0,0,6,11,15,16,21,
+Brazil,6,0.462,0.0,0,6,11,15,16,21,
+avg Large,6,0.5295,0.06749999999999998,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.538,0,0,5,11,17,21,23,
+Europe,6,0.538,0.0,0,5,11,17,21,23,
+avg Large,6,0.5323333333333333,0.05525898619731956,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,nan,nan,5,6,8,12,16,20,
+avg Large,6,nan,nan,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,nan,nan,3,7,9,19,21,22,
+avg Large,6,nan,nan,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,nan,nan,0,1,2,4,7,14,
+avg Large,6,nan,nan,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.618,0,0,1,8,18,20,22,
+USA,6,0.618,0.0,0,1,8,18,20,22,
+avg Large,6,0.618,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.5,0,1,7,9,13,14,20,
+Brazil,6,0.5,0.0,1,7,9,13,14,20,
+avg Large,6,0.5589999999999999,0.059,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.475,0,3,5,8,13,15,24,
+Europe,6,0.475,0.0,3,5,8,13,15,24,
+avg Large,6,0.531,0.06235917467916543,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.534,0,5,7,8,10,15,22,
+USA,6,0.534,0.0,5,7,8,10,15,22,
+avg Large,6,0.534,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.462,0,10,12,18,19,22,24,
+Brazil,6,0.462,0.0,10,12,18,19,22,24,
+avg Large,6,0.498,0.036000000000000004,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.575,0,1,3,9,13,15,22,
+Europe,6,0.575,0.0,1,3,9,13,15,22,
+avg Large,6,0.5236666666666666,0.046707125318901324,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.563,0,6,7,8,17,22,24,
+USA,6,0.563,0.0,6,7,8,17,22,24,
+avg Large,6,0.563,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.654,0,8,9,14,15,22,23,
+Brazil,6,0.654,0.0,8,9,14,15,22,23,
+avg Large,6,0.6085,0.04550000000000004,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.475,0,4,6,7,10,18,21,
+Europe,6,0.475,0.0,4,6,7,10,18,21,
+avg Large,6,0.5640000000000001,0.07307986498801616,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.597,0,1,8,10,17,19,21,
+USA,6,0.597,0.0,1,8,10,17,19,21,
+avg Large,6,0.597,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.615,0,0,4,5,13,20,24,
+Brazil,6,0.615,0.0,0,4,5,13,20,24,
+avg Large,6,0.606,0.009000000000000008,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.375,0,6,10,13,16,21,22,
+Europe,6,0.375,0.0,6,10,13,16,21,22,
+avg Large,6,0.529,0.10914210919713802,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.63,0,3,6,10,12,19,23,
+USA,6,0.63,0.0,3,6,10,12,19,23,
+avg Large,6,0.63,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.538,0,0,1,2,14,22,24,
+Brazil,6,0.538,0.0,0,1,2,14,22,24,
+avg Large,6,0.5840000000000001,0.045999999999999985,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.5,0,0,1,4,11,14,24,
+Europe,6,0.5,0.0,0,1,4,11,14,24,
+avg Large,6,0.556,0.05457716250105594,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.647,0,0,6,10,13,14,20,
+USA,6,0.647,0.0,0,6,10,13,14,20,
+avg Large,6,0.647,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.385,0,0,4,18,19,22,24,
+Brazil,6,0.385,0.0,0,4,18,19,22,24,
+avg Large,6,0.516,0.131,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.5,0,4,8,16,17,21,24,
+Europe,6,0.5,0.0,4,8,16,17,21,24,
+avg Large,6,0.5106666666666667,0.1072266550609295,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.592,0,1,3,9,14,15,16,
+USA,6,0.592,0.0,1,3,9,14,15,16,
+avg Large,6,0.592,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.538,0,2,3,9,11,15,18,
+Brazil,6,0.538,0.0,2,3,9,11,15,18,
+avg Large,6,0.565,0.02699999999999997,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.475,0,1,6,7,10,19,22,
+Europe,6,0.475,0.0,1,6,7,10,19,22,
+avg Large,6,0.535,0.04781213235152768,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.647,0,0,9,13,14,21,22,
+USA,6,0.647,0.0,0,9,13,14,21,22,
+avg Large,6,0.647,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.538,0,1,4,9,16,18,24,
+Brazil,6,0.538,0.0,1,4,9,16,18,24,
+avg Large,6,0.5925,0.05449999999999999,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.55,0,1,6,7,10,14,20,
+Europe,6,0.55,0.0,1,6,7,10,14,20,
+avg Large,6,0.5783333333333334,0.04880118395649387,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.584,0,0,2,9,14,18,23,
+USA,6,0.584,0.0,0,2,9,14,18,23,
+avg Large,6,0.584,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.346,0,6,7,8,11,13,15,
+Brazil,6,0.346,0.0,6,7,8,11,13,15,
+avg Large,6,0.46499999999999997,0.119,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.575,0,2,9,11,14,16,23,
+Europe,6,0.575,0.0,2,9,11,14,16,23,
+avg Large,6,0.5016666666666666,0.11013426149729953,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.534,0,0,12,13,15,16,23,
+USA,6,0.534,0.0,0,12,13,15,16,23,
+avg Large,6,0.534,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.615,0,2,4,5,8,9,18,
+Brazil,6,0.615,0.0,2,4,5,8,9,18,
+avg Large,6,0.5745,0.04049999999999998,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.538,0,0,4,8,11,16,21,
+Europe,6,0.538,0.0,0,4,8,11,16,21,
+avg Large,6,0.5623333333333334,0.037276742823851364,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.588,0,4,7,12,17,18,24,
+USA,6,0.588,0.0,4,7,12,17,18,24,
+avg Large,6,0.588,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.615,0,0,2,6,9,14,17,
+Brazil,6,0.615,0.0,0,2,6,9,14,17,
+avg Large,6,0.6014999999999999,0.013500000000000012,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.488,0,1,5,7,16,17,20,
+Europe,6,0.488,0.0,1,5,7,16,17,20,
+avg Large,6,0.5636666666666666,0.05462803513052819,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.584,0,1,6,11,12,18,21,
+USA,6,0.584,0.0,1,6,11,12,18,21,
+avg Large,6,0.584,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.515,0,3,5,12,15,19,22,
+Brazil,6,0.515,0.0,3,5,12,15,19,22,
+avg Large,6,0.5495,0.034499999999999975,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.48,0,3,4,11,13,23,24,
+Europe,6,0.48,0.0,3,4,11,13,23,24,
+avg Large,6,0.5263333333333333,0.043207509635350284,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.666,0,0,7,8,12,14,19,
+Cora,6,0.666,0.0,0,7,8,12,14,19,
+avg Large,6,0.666,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.464,0,1,6,12,19,21,22,
+CiteSeer,6,0.464,0.0,1,6,12,19,21,22,
+avg Large,6,0.5650000000000001,0.101,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.565,0,4,6,16,21,22,23,
+Cora,6,0.565,0.0,4,6,16,21,22,23,
+avg Large,6,0.565,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.747,0,0,1,5,10,15,22,
+Cora,6,0.747,0.0,0,1,5,10,15,22,
+avg Large,6,0.747,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.51,0,2,8,10,19,20,22,
+CiteSeer,6,0.51,0.0,2,8,10,19,20,22,
+avg Large,6,0.6285000000000001,0.1185,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+PubMed,6,0.659,0,0,1,6,17,19,22,
+PubMed,6,0.659,0.0,0,1,6,17,19,22,
+avg Large,6,0.6386666666666667,0.09781728999631006,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Photo,6,0.859,0,0,4,5,9,13,15,
+Photo,6,0.859,0.0,0,4,5,9,13,15,
+avg Large,6,0.6937500000000001,0.12758795985515248,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora,6,0.649,0,2,8,9,16,17,19,
+Cora,6,0.649,0.0,2,8,9,16,17,19,
+avg Large,6,0.649,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+CiteSeer,6,0.49,0,5,6,7,12,13,19,
+CiteSeer,6,0.49,0.0,5,6,7,12,13,19,
+avg Large,6,0.5695,0.07950000000000002,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+PubMed,6,0.592,0,0,1,2,11,12,20,
+PubMed,6,0.592,0.0,0,1,2,11,12,20,
+avg Large,6,0.577,0.06577233460962141,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Photo,6,0.766,0,1,4,8,22,23,24,
+Photo,6,0.766,0.0,1,4,8,22,23,24,
+avg Large,6,0.62425,0.0997105185023125,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.567,0,0,3,6,8,12,15,
+USA,6,0.567,0.0,0,3,6,8,12,15,
+avg Large,6,0.567,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.488,0,7,10,12,13,18,22,
+Europe,6,0.488,0.0,7,10,12,13,18,22,
+avg Large,6,0.5275,0.03949999999999998,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora_ML,6,0.731,0,4,6,7,18,20,21,
+Cora_ML,6,0.731,0.0,4,6,7,18,20,21,
+avg Large,6,0.731,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Physics,6,0.749,0,0,6,7,10,15,16,
+Physics,6,0.749,0.0,0,6,7,10,15,16,
+avg Large,6,0.749,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Cora_ML,6,0.755,0,1,3,4,6,9,24,
+Cora_ML,6,0.755,0.0,1,3,4,6,9,24,
+avg Large,6,0.752,0.0030000000000000027,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+DBLP,6,0.694,0,4,7,12,13,15,24,
+DBLP,6,0.694,0.0,4,7,12,13,15,24,
+avg Large,6,0.7326666666666667,0.027450966386551073,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Roman-empire,6,0.27,0,1,7,11,14,16,23,
+Roman-empire,6,0.27,0.0,1,7,11,14,16,23,
+avg Large,6,0.617,0.2017461275960458,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Amazon-ratings,6,0.374,0,0,3,8,10,12,21,
+Amazon-ratings,6,0.374,0.0,0,3,8,10,12,21,
+avg Large,6,0.5684,0.20496106947418086,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Minesweeper,6,0.794,0,1,5,7,10,15,23,
+Minesweeper,6,0.794,0.0,1,5,7,10,15,23,
+avg Large,6,0.606,0.20512516504157488,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Wiki,6,0.501,0,7,10,16,17,18,22,
+Wiki,6,0.501,0.0,7,10,16,17,18,22,
+avg Large,6,0.5910000000000001,0.19343068156688215,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.538,0,5,6,7,9,13,17,
+Brazil,6,0.538,0.0,5,6,7,9,13,17,
+avg Large,6,0.5843750000000001,0.1817848573864171,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.571,0,0,7,12,18,19,20,
+USA,6,0.571,0.0,0,7,12,18,19,20,
+avg Large,6,0.571,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Brazil,6,0.577,0,0,5,10,11,12,16,
+Brazil,6,0.577,0.0,0,5,10,11,12,16,
+avg Large,6,0.574,0.0030000000000000027,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.45,0,2,4,6,17,20,24,
+Europe,6,0.45,0.0,2,4,6,17,20,24,
+avg Large,6,0.5326666666666666,0.05850546033396272,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+USA,6,0.475,0,0,14,17,21,23,24,
+USA,6,0.475,0.0,0,14,17,21,23,24,
+avg Large,6,0.475,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Europe,6,0.425,0,1,7,8,19,21,23,
+Europe,6,0.425,0.0,1,7,8,19,21,23,
+avg Large,6,0.44999999999999996,0.024999999999999994,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Wiki,6,0.397,0,1,10,14,17,23,24,
+Wiki,6,0.397,0.0,1,10,14,17,23,24,
+avg Large,6,0.397,0.0,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_8000_250000_house_5000_2850_601.pickle,6,0.85,0,0,4,6,8,10,12,
+Erdos_8000_250000_house_5000_2850_601.pickle,6,0.54,0,0,4,6,8,10,12,
+Erdos_8000_250000_house_5000_2850_601.pickle,6,0.6950000000000001,0.15499999999999997,0,4,6,8,10,12,
+avg Large,6,0.6950000000000001,0.15499999999999997,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_8000_250000_grid_5000_3150_602.pickle,6,0.817,0,0,13,15,20,21,23,
+Erdos_8000_250000_grid_5000_3150_602.pickle,6,0.52,0,0,13,15,20,21,23,
+Erdos_8000_250000_grid_5000_3150_602.pickle,6,0.6685,0.14849999999999997,0,13,15,20,21,23,
+avg Large,6,0.68175,0.15236202774969881,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_house_2500_3053_602.pickle,6,0.887,0,0,5,6,8,11,12,
+Barabasi_24000_12_house_2500_3053_602.pickle,6,0.904,0,0,5,6,8,11,12,
+Barabasi_24000_12_house_2500_3053_602.pickle,6,0.791,0,0,5,6,8,11,12,
+Barabasi_24000_12_house_2500_3053_602.pickle,6,0.8606666666666666,0.04974825513411388,0,5,6,8,11,12,
+avg Large,6,0.8606666666666666,0.04974825513411388,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_path_2500_3003_601.pickle,6,0.941,0,2,3,6,21,22,24,
+Barabasi_24000_12_path_2500_3003_601.pickle,6,0.939,0,2,3,6,21,22,24,
+Barabasi_24000_12_path_2500_3003_601.pickle,6,0.795,0,2,3,6,21,22,24,
+Barabasi_24000_12_path_2500_3003_601.pickle,6,0.8916666666666666,0.06835853193924576,2,3,6,21,22,24,
+avg Large,6,0.8761666666666666,0.061758715084503535,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_grid_2500_3203_603.pickle,6,0.827,0,3,8,10,11,20,23,
+Barabasi_24000_12_grid_2500_3203_603.pickle,6,0.875,0,3,8,10,11,20,23,
+Barabasi_24000_12_grid_2500_3203_603.pickle,6,0.73,0,3,8,10,11,20,23,
+Barabasi_24000_12_grid_2500_3203_603.pickle,6,0.8106666666666666,0.06031215097768903,3,8,10,11,20,23,
+avg Large,6,0.8543333333333334,0.06861972505531237,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_house_2500_3053_602.pickle,6,0.885,0,4,6,7,12,13,16,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_house_2500_3053_602.pickle,6,0.866,0,2,7,15,18,22,24,
+Barabasi_24000_12_house_2500_3053_602.pickle,6,0.8755,0.009500000000000008,2,7,15,18,22,24,
+avg Large,6,0.8755,0.009500000000000008,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_path_2500_3003_601.pickle,6,0.946,0,6,12,16,18,21,22,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_path_2500_3003_601.pickle,6,0.94,0,0,1,5,10,13,16,
+Barabasi_24000_12_path_2500_3003_601.pickle,6,0.943,0.0030000000000000027,0,1,5,10,13,16,
+avg Large,6,0.90925,0.03447734763580282,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_grid_2500_3203_603.pickle,6,0.777,0,0,1,2,6,15,20,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Barabasi_24000_12_grid_2500_3203_603.pickle,6,0.731,0,4,5,8,17,18,24,
+Barabasi_24000_12_grid_2500_3203_603.pickle,6,0.754,0.02300000000000002,4,5,8,17,18,24,
+avg Large,6,0.8574999999999999,0.07952934468903075,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_9000_250000_grid_5000_3150_604.pickle,6,0.761,0,0,4,10,18,21,22,
+Erdos_9000_250000_grid_5000_3150_604.pickle,6,0.86,0,0,4,10,18,21,22,
+Erdos_9000_250000_grid_5000_3150_604.pickle,6,0.539,0,0,4,10,18,21,22,
+Erdos_9000_250000_grid_5000_3150_604.pickle,6,0.7200000000000001,0.13421624342828253,0,4,10,18,21,22,
+avg Large,6,0.7200000000000001,0.13421624342828253,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_9000_250000_house_5000_2850_603.pickle,6,0.759,0,11,15,16,18,20,22,
+Erdos_9000_250000_house_5000_2850_603.pickle,6,0.835,0,11,15,16,18,20,22,
+Erdos_9000_250000_house_5000_2850_603.pickle,6,0.413,0,11,15,16,18,20,22,
+Erdos_9000_250000_house_5000_2850_603.pickle,6,0.6689999999999999,0.18365910450251757,11,15,16,18,20,22,
+avg Large,6,0.6945,0.16285755534617768,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_9000_250000_grid_5000_3150_604.pickle,6,0.533,0,8,10,18,22,23,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_9000_250000_grid_5000_3150_604.pickle,6,0.872,0,3,6,9,10,14,15,
+Erdos_9000_250000_grid_5000_3150_604.pickle,6,0.7025,0.16949999999999998,3,6,9,10,14,15,
+avg Large,6,0.7025,0.16949999999999998,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_9000_250000_house_5000_2850_603.pickle,6,0.783,0,5,7,11,15,20,24,
+Graph, k , Avg Test Accuracy, Std Test Accuracy, k features
+Erdos_9000_250000_house_5000_2850_603.pickle,6,0.922,0,3,6,13,15,19,22,
+Erdos_9000_250000_house_5000_2850_603.pickle,6,0.8525,0.0695,3,6,13,15,19,22,
+avg Large,6,0.7775000000000001,0.14968383346240166,
