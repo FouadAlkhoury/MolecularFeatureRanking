@@ -1,0 +1,1 @@
+../mpn/x86_64/zen3/sbpi1_bdiv_r.asm

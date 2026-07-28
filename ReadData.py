@@ -68,6 +68,25 @@ def readDataSyntheticAll(dataset, type, path="data/synthetic/"):
 
     return X,Y
 
+def readDataMolecules(type, dataset, run, path="data/"):
+    if (type == 'train'):
+        filename = os.path.join(path, "real", "split", f"importance_{dataset}_run{run}_compounds_v3.csv")
+    #filename = os.path.join(path, "real/split", "importance_" + dataset + "_run" + str(run) + "_split1_v3_all_fingerprints_one_split.csv")
+    #if (type == 'test'):
+    #   filename = os.path.join(path, "pattern", "pattern.test")
+
+    X = np.loadtxt(filename, delimiter=',', dtype=str)
+    Y = X[:, 1:-1]
+    X = X[:, 0]
+    Y = np.array(Y)
+    #print(Y)
+    Y = Y.astype(np.float32)
+
+    return X,Y
+
+
+
+
 def readDataSynthetic(type, dataset, path="data/"):
     if (type == 'train'):
         filename = os.path.join(path, 'real/split', 'importance_' + dataset + ".csv")

@@ -1,0 +1,1 @@
+../mpn/x86_64/zen3/mul_1.asm

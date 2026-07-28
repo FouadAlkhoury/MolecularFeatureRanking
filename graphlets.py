@@ -280,6 +280,7 @@ G29.add_edge(*(132, 135))
 G29.add_edge(*(133, 135))
 G29.add_edge(*(133, 136))
 G29.add_edge(*(134, 136))
+#print(G29)
 
 G30 = nx.Graph()
 G30.add_nodes_from([137, 138, 139, 140, 141, 142])
@@ -288,7 +289,7 @@ G30.add_edge(*(138, 139))
 G30.add_edge(*(139, 140))
 G30.add_edge(*(140, 141))
 G30.add_edge(*(141, 142))
-G30.add_edge(*(137, 142))
+G30.add_edge(*(142, 137))
 
 graphs = []
 graphs.append(G0)
