@@ -1,0 +1,36 @@
+CHEMBL204
+=========
+
+Top 30 discriminative features
+(shifted index, original index, P(x=1|y=0), P(x=1|y=1), |difference|)
+
+feature_shifted=73, feature_original=73, p_x1_y0=27208.2995, p_x1_y1=21380.0214, abs_diff=5828.2781
+feature_shifted=66, feature_original=66, p_x1_y0=2812.3316, p_x1_y1=2405.3262, abs_diff=407.0053
+feature_shifted=71, feature_original=71, p_x1_y0=733.8610, p_x1_y1=605.7326, abs_diff=128.1283
+feature_shifted=152, feature_original=152, p_x1_y0=404.2724, p_x1_y1=464.6722, abs_diff=60.3998
+feature_shifted=72, feature_original=72, p_x1_y0=969.8824, p_x1_y1=927.8289, abs_diff=42.0535
+feature_shifted=153, feature_original=153, p_x1_y0=82.1091, p_x1_y1=119.3993, abs_diff=37.2902
+feature_shifted=78, feature_original=78, p_x1_y0=140.4492, p_x1_y1=104.1176, abs_diff=36.3316
+feature_shifted=63, feature_original=63, p_x1_y0=299.3476, p_x1_y1=278.2995, abs_diff=21.0481
+feature_shifted=92, feature_original=92, p_x1_y0=6.1604, p_x1_y1=14.2460, abs_diff=8.0856
+feature_shifted=82, feature_original=82, p_x1_y0=19.6364, p_x1_y1=13.2193, abs_diff=6.4171
+feature_shifted=67, feature_original=67, p_x1_y0=27.7647, p_x1_y1=22.1604, abs_diff=5.6043
+feature_shifted=48, feature_original=48, p_x1_y0=12.7519, p_x1_y1=9.2518, abs_diff=3.5001
+feature_shifted=156, feature_original=156, p_x1_y0=5.3155, p_x1_y1=7.7914, abs_diff=2.4759
+feature_shifted=62, feature_original=62, p_x1_y0=71.2620, p_x1_y1=69.6578, abs_diff=1.6043
+feature_shifted=40, feature_original=40, p_x1_y0=12.1212, p_x1_y1=10.7872, abs_diff=1.3341
+feature_shifted=24, feature_original=24, p_x1_y0=11.2728, p_x1_y1=10.0331, abs_diff=1.2398
+feature_shifted=0, feature_original=0, p_x1_y0=37.9412, p_x1_y1=36.8877, abs_diff=1.0535
+feature_shifted=145, feature_original=145, p_x1_y0=3.8737, p_x1_y1=2.9306, abs_diff=0.9432
+feature_shifted=1, feature_original=1, p_x1_y0=35.6310, p_x1_y1=34.8289, abs_diff=0.8021
+feature_shifted=32, feature_original=32, p_x1_y0=7.7610, p_x1_y1=7.0829, abs_diff=0.6781
+feature_shifted=8, feature_original=8, p_x1_y0=7.7610, p_x1_y1=7.0829, abs_diff=0.6781
+feature_shifted=52, feature_original=52, p_x1_y0=7.8082, p_x1_y1=7.1874, abs_diff=0.6208
+feature_shifted=241, feature_original=241, p_x1_y0=0.1765, p_x1_y1=0.7326, abs_diff=0.5561
+feature_shifted=65, feature_original=65, p_x1_y0=184.1711, p_x1_y1=183.6150, abs_diff=0.5561
+feature_shifted=56, feature_original=56, p_x1_y0=5.0172, p_x1_y1=4.5052, abs_diff=0.5119
+feature_shifted=12, feature_original=12, p_x1_y0=4.6908, p_x1_y1=4.1883, abs_diff=0.5025
+feature_shifted=200, feature_original=200, p_x1_y0=0.0695, p_x1_y1=0.5455, abs_diff=0.4759
+feature_shifted=235, feature_original=235, p_x1_y0=0.0802, p_x1_y1=0.5455, abs_diff=0.4652
+feature_shifted=276, feature_original=276, p_x1_y0=0.0963, p_x1_y1=0.5561, abs_diff=0.4599
+feature_shifted=154, feature_original=154, p_x1_y0=3.6795, p_x1_y1=3.2225, abs_diff=0.4570

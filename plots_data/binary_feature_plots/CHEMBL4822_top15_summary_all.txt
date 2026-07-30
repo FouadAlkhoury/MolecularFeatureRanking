@@ -1,0 +1,21 @@
+CHEMBL4822
+==========
+
+Top 15 discriminative features
+(shifted index, original index, P(x=1|y=0), P(x=1|y=1), |difference|)
+
+feature_shifted=73, feature_original=73, p_x1_y0=27674.8872, p_x1_y1=25966.7368, abs_diff=1708.1504
+feature_shifted=72, feature_original=72, p_x1_y0=961.7895, p_x1_y1=1102.3308, abs_diff=140.5414
+feature_shifted=66, feature_original=66, p_x1_y0=2831.7293, p_x1_y1=2767.3985, abs_diff=64.3308
+feature_shifted=65, feature_original=65, p_x1_y0=182.2406, p_x1_y1=207.4887, abs_diff=25.2481
+feature_shifted=152, feature_original=152, p_x1_y0=419.8010, p_x1_y1=435.6373, abs_diff=15.8364
+feature_shifted=71, feature_original=71, p_x1_y0=736.1654, p_x1_y1=748.3158, abs_diff=12.1504
+feature_shifted=92, feature_original=92, p_x1_y0=4.8722, p_x1_y1=13.5338, abs_diff=8.6617
+feature_shifted=48, feature_original=48, p_x1_y0=12.5666, p_x1_y1=9.0407, abs_diff=3.5259
+feature_shifted=54, feature_original=54, p_x1_y0=0.1482, p_x1_y1=3.1595, abs_diff=3.0113
+feature_shifted=82, feature_original=82, p_x1_y0=23.0977, p_x1_y1=20.5714, abs_diff=2.5263
+feature_shifted=63, feature_original=63, p_x1_y0=299.3835, p_x1_y1=301.2331, abs_diff=1.8496
+feature_shifted=78, feature_original=78, p_x1_y0=146.0150, p_x1_y1=144.7970, abs_diff=1.2180
+feature_shifted=40, feature_original=40, p_x1_y0=12.2501, p_x1_y1=11.3817, abs_diff=0.8684
+feature_shifted=156, feature_original=156, p_x1_y0=5.8722, p_x1_y1=5.1053, abs_diff=0.7669
+feature_shifted=155, feature_original=155, p_x1_y0=0.7594, p_x1_y1=1.4962, abs_diff=0.7368
