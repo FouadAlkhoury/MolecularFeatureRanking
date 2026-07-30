@@ -1,0 +1,16 @@
+CHEMBL220
+=========
+
+Top 10 discriminative features
+(shifted index, original index, P(x=1|y=0), P(x=1|y=1), |difference|)
+
+feature_shifted=79, feature_original=236, p_x1_y0=0.5455, p_x1_y1=0.2105, abs_diff=0.3349
+feature_shifted=62, feature_original=219, p_x1_y0=0.5789, p_x1_y1=0.2536, abs_diff=0.3254
+feature_shifted=131, feature_original=288, p_x1_y0=0.5359, p_x1_y1=0.2297, abs_diff=0.3062
+feature_shifted=124, feature_original=281, p_x1_y0=0.4880, p_x1_y1=0.1866, abs_diff=0.3014
+feature_shifted=94, feature_original=251, p_x1_y0=0.4402, p_x1_y1=0.1722, abs_diff=0.2679
+feature_shifted=151, feature_original=308, p_x1_y0=0.7990, p_x1_y1=0.5407, abs_diff=0.2584
+feature_shifted=65, feature_original=222, p_x1_y0=0.6986, p_x1_y1=0.4450, abs_diff=0.2536
+feature_shifted=117, feature_original=274, p_x1_y0=0.7464, p_x1_y1=0.4928, abs_diff=0.2536
+feature_shifted=126, feature_original=283, p_x1_y0=0.3923, p_x1_y1=0.6411, abs_diff=0.2488
+feature_shifted=92, feature_original=249, p_x1_y0=0.6555, p_x1_y1=0.4115, abs_diff=0.2440
