@@ -23,5 +23,8 @@ This script trains the feature ranking graph neural network (FR-GNN) on the grap
 ### gc_gnn.py
 This script trains and evaluates the downstream graph classification GNN using he feature rankings predicted by the previously trained FR-GNN model. The graph-classification stage supports three GNN architectures: Graph Convolutional Network (GCN), Graph Attention Network (GAT), and GraphSAGE. The script records the selected feature count, training and test accuracy, model architecture, and experimental run in the output reports.
 
+### plots_menu.py
+This script generates the figures reported in the manuscript through a unified command line interface. After launching the script, the user selects a figure by entering the corresponding number and the associated plotting routine is executed. The required results and auxiliary analysis files are stored in the plots_data/ directory. All generated figures are saved to the plots_output/ directory, typically in PNG and PDF formats.
+ 
 
 
