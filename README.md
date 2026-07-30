@@ -1,5 +1,6 @@
 This repository contains the source code and datasets associated with the manuscript:
 Feature Selection-Guided Graph Neural Networks for Compound Activity Prediction. Authors: Fouad Alkhoury, Tamás Horváth, Tiago Janela, Andrea Mastropietro, and Jürgen Bajorath.
+It provides the complete pipeline required to reproduce the experiments, analyses, and figures reported in the paper.
 In the following we describe the scripts used to run the experimental pipeline.
 
 ### compute_graph_features_compounds.py
