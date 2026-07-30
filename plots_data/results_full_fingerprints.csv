@@ -1,0 +1,200 @@
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,1,GCN,F_v3,167,76.8,100.0,0:00:50.661269
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,2,GCN,F_v3,167,77.6,100.0,0:00:46.294798
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,3,GCN,F_v3,167,76.0,100.0,0:00:46.353098
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,4,GCN,F_v3,167,80.0,100.0,0:00:46.500420
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,5,GCN,F_v3,167,78.4,100.0,0:00:46.503431
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,6,GCN,F_v3,167,72.8,100.0,0:00:46.496832
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,7,GCN,F_v3,167,76.0,100.0,0:00:46.504209
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,8,GCN,F_v3,167,79.2,100.0,0:00:46.760693
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,9,GCN,F_v3,167,76.8,100.0,0:00:46.590624
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1163125,414,10,GCN,F_v3,167,78.4,100.0,0:00:46.560464
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,1,GCN,F_v3,167,76.52,99.35,0:00:49.144574
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,2,GCN,F_v3,167,79.55,100.0,0:00:49.212486
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,3,GCN,F_v3,167,80.3,100.0,0:00:49.302169
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,4,GCN,F_v3,167,75.0,99.35,0:00:49.178175
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,5,GCN,F_v3,167,87.12,99.68,0:00:49.176880
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,6,GCN,F_v3,167,80.3,99.35,0:00:49.287689
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,7,GCN,F_v3,167,78.79,100.0,0:00:49.205988
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,8,GCN,F_v3,167,78.79,99.68,0:00:49.390202
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,9,GCN,F_v3,167,76.52,100.0,0:00:49.120478
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL1914,440,10,GCN,F_v3,167,79.55,99.35,0:00:49.177853
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,1,GCN,F_v3,167,82.3,100.0,0:00:41.694847
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,2,GCN,F_v3,167,84.07,100.0,0:00:41.731996
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,3,GCN,F_v3,167,87.61,100.0,0:00:41.706644
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,4,GCN,F_v3,167,81.42,100.0,0:00:41.692662
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,5,GCN,F_v3,167,89.38,100.0,0:00:41.979498
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,6,GCN,F_v3,167,87.61,100.0,0:00:41.810163
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,7,GCN,F_v3,167,82.3,100.0,0:00:41.715748
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,8,GCN,F_v3,167,76.99,100.0,0:00:41.869005
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,9,GCN,F_v3,167,83.19,100.0,0:00:41.907910
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL204,374,10,GCN,F_v3,167,83.19,100.0,0:00:41.794745
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,1,GCN,F_v3,167,83.12,100.0,0:00:29.396341
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,2,GCN,F_v3,167,84.42,100.0,0:00:29.273349
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,3,GCN,F_v3,167,83.12,100.0,0:00:29.308723
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,4,GCN,F_v3,167,83.12,100.0,0:00:29.342984
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,5,GCN,F_v3,167,79.22,100.0,0:00:29.372477
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,6,GCN,F_v3,167,81.82,100.0,0:00:29.340026
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,7,GCN,F_v3,167,80.52,100.0,0:00:29.233806
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,8,GCN,F_v3,167,81.82,100.0,0:00:29.308204
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,9,GCN,F_v3,167,84.42,100.0,0:00:29.343111
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL214,254,10,GCN,F_v3,167,88.31,100.0,0:00:29.322889
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,1,GCN,F_v3,167,87.1,100.0,0:00:22.237351
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,2,GCN,F_v3,167,72.58,100.0,0:00:22.348925
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,3,GCN,F_v3,167,75.81,100.0,0:00:22.266776
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,4,GCN,F_v3,167,79.03,100.0,0:00:22.260540
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,5,GCN,F_v3,167,82.26,100.0,0:00:22.312100
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,6,GCN,F_v3,167,82.26,100.0,0:00:22.441993
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,7,GCN,F_v3,167,79.03,100.0,0:00:22.263282
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,8,GCN,F_v3,167,82.26,100.0,0:00:22.345301
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,9,GCN,F_v3,167,72.58,100.0,0:00:22.230216
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL218,204,10,GCN,F_v3,167,69.35,100.0,0:00:22.389170
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,1,GCN,F_v3,167,73.81,100.0,0:00:46.631785
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,2,GCN,F_v3,167,68.25,100.0,0:00:46.651092
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,3,GCN,F_v3,167,69.05,100.0,0:00:46.849276
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,4,GCN,F_v3,167,78.57,100.0,0:00:46.911805
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,5,GCN,F_v3,167,69.84,100.0,0:00:46.724774
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,6,GCN,F_v3,167,71.43,100.0,0:00:46.757424
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,7,GCN,F_v3,167,75.4,100.0,0:00:46.781618
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,8,GCN,F_v3,167,75.4,100.0,0:00:46.895431
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,9,GCN,F_v3,167,67.46,100.0,0:00:46.757694
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL220,418,10,GCN,F_v3,167,76.19,100.0,0:00:46.701671
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,1,GCN,F_v3,167,75.73,100.0,0:00:37.114104
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,2,GCN,F_v3,167,72.82,100.0,0:00:37.087368
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,3,GCN,F_v3,167,70.87,100.0,0:00:37.256961
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,4,GCN,F_v3,167,76.7,100.0,0:00:37.169477
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,5,GCN,F_v3,167,67.96,100.0,0:00:37.105410
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,6,GCN,F_v3,167,68.93,100.0,0:00:37.121469
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,7,GCN,F_v3,167,71.84,100.0,0:00:37.109637
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,8,GCN,F_v3,167,65.05,100.0,0:00:37.378813
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,9,GCN,F_v3,167,74.76,100.0,0:00:37.060653
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL230,342,10,GCN,F_v3,167,76.7,100.0,0:00:37.177998
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,1,GCN,F_v3,167,90.0,100.0,0:00:37.023920
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,2,GCN,F_v3,167,78.0,100.0,0:00:36.897903
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,3,GCN,F_v3,167,85.0,100.0,0:00:37.054816
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,4,GCN,F_v3,167,89.0,100.0,0:00:36.964247
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,5,GCN,F_v3,167,83.0,100.0,0:00:36.931293
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,6,GCN,F_v3,167,89.0,100.0,0:00:37.008608
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,7,GCN,F_v3,167,86.0,100.0,0:00:37.093026
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,8,GCN,F_v3,167,82.0,100.0,0:00:37.298586
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,9,GCN,F_v3,167,86.0,100.0,0:00:36.912840
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL261,332,10,GCN,F_v3,167,84.0,100.0,0:00:36.895929
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,1,GCN,F_v3,167,71.74,100.0,0:00:17.188363
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,2,GCN,F_v3,167,73.91,100.0,0:00:17.195372
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,3,GCN,F_v3,167,78.26,100.0,0:00:17.193970
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,4,GCN,F_v3,167,56.52,100.0,0:00:17.214472
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,5,GCN,F_v3,167,63.04,100.0,0:00:17.187299
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,6,GCN,F_v3,167,67.39,100.0,0:00:17.179049
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,7,GCN,F_v3,167,69.57,100.0,0:00:17.258583
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,8,GCN,F_v3,167,63.04,100.0,0:00:17.223039
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,9,GCN,F_v3,167,73.91,100.0,0:00:17.155604
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL2973,152,10,GCN,F_v3,167,69.57,100.0,0:00:17.175417
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,1,GCN,F_v3,167,76.25,100.0,0:00:29.491035
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,2,GCN,F_v3,167,82.5,100.0,0:00:29.481450
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,3,GCN,F_v3,167,77.5,100.0,0:00:29.542322
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,4,GCN,F_v3,167,78.75,100.0,0:00:29.519102
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,5,GCN,F_v3,167,76.25,100.0,0:00:29.642037
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,6,GCN,F_v3,167,81.25,100.0,0:00:29.522742
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,7,GCN,F_v3,167,80.0,100.0,0:00:29.575202
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,8,GCN,F_v3,167,76.25,100.0,0:00:29.558471
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,9,GCN,F_v3,167,65.0,100.0,0:00:29.590074
+dataset, size, run, model, variant, k, test_acc, train_acc, gc_training_time
+CHEMBL4822,266,10,GCN,F_v3,167,73.75,100.0,0:00:29.537772
